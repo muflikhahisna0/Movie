@@ -1,0 +1,6 @@
+1. aktifkan Server PHP ( WAMP/XAMPP)
+2. buka http://localhost/phpmyadmin/
+3. buat database baru dengan nama film
+4. import database film.sql di dalam folder film
+5. run server dengan cara buka terminal / gitbash , ketik php spark serve
+6. buka di web broser localhost:8080
